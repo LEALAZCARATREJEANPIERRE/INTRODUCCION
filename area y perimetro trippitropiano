@@ -1,0 +1,12 @@
+// crear un programa que calcule el area y el perimetro de una circunferencia a parit de su diametro
+ESCRIBIR " programa que calcula el area y e perimetro de una circunferencia "
+ESCRIBIR"."
+ESCRIBIR"."
+ESCRIBIR"."
+ESCRIBIR " digite el diametro  de la circunferencia"
+leer diametro
+radio = diametro /2
+area = 3.1416 * radio *
+perimetro = 2 * 3.1416 * radio
+ESCRIBIR "el circulo de diametro ", diametro," tiene un radio de ", radio, "donde su area es igiual a ", area, " y s perimetro es igual a ", perimetro
+FINPROCESO
