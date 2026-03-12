@@ -1,0 +1,11 @@
+PROCESO area triangulo
+ ESCRIBIR "programa que calcula el area de un triangulo" 
+ ESCRIBIR "."
+ ESCRIBIR "."
+ ESCRIBIR "digite el valor de la base "
+ LEER base 
+ ESCRIBIR " digite el valor de la altura "
+ leer altura
+ RESULTADO = (base * altura)/2
+ ESCRIBIR " el triangulo de base  " , base, " Y DE ALTURA " , altura, " TIENE UN AREA DE ", RESULTADO 
+FINPROCESO
