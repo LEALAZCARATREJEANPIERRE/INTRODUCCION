@@ -1,0 +1,9 @@
+Proceso hipotenusa
+ Definir a, b, h Como Real
+ Escribir "Ingrese cateto 1:"
+ Leer a
+Escribir "Ingrese cateto 2:"
+ Leer b
+h <- Raiz(a^2 + b^2)
+Escribir "Hipotenusa: ", h
+FINPROCESO
